@@ -1,3 +1,9 @@
+
+
+
+
+Jinder arias 
+Camila Parra 
 1 parte 
 #vim index.html
 code .
@@ -6,10 +12,20 @@ code .
 #git add .
 #git commit -m 
 git push origin main
+# Landing-page-calzado
+parte 2
+git clone
+ls
+cd 
+ls
+gir branch
+git branch camila
+git checkout camila
+code .
+git status
+git add .
+git status
+git commit -m "Agregando pagina de inicio"
+git status
 
-2da parte 
-crear ramas 
-git branch -a
-git branch jinder 
-git switch jinder
-git push origin jinder
+
